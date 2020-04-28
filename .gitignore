@@ -1,0 +1,5 @@
+Exercise/obj/
+Exercise/bin/
+Exercise/wwwroot/
+src/Exercise.Api/bin/
+.vs/
